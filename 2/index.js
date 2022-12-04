@@ -113,6 +113,3 @@ function getWrappedIndex(arr, i) {
 }
 
 part2()
-
-// console.log('score 1', score)
-// console.log('score 2', score2)
